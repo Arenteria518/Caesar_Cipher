@@ -2,7 +2,7 @@
 # caesar_cipher- prompts user for a message and encypts message
 # by changing each letter to 'key' number of space to the left on
 # the alphabet. i.e. if key is 3 and user inputes 'd' the value 
-# will change to 'a'
+# will change to ' a '
 ######################################################################
 def caesar_cipher(key)
     puts "please enter a message"    
